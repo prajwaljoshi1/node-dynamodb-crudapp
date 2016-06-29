@@ -1,0 +1,11 @@
+{
+  "name": "dynamo-crud",
+  "version": "1.0.0",
+  "description": "a dynamo-db crud on node js",
+  "main": "MoviesItemOps01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
