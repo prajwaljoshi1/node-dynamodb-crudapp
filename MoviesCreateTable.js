@@ -2,7 +2,7 @@ var AWS = require('aws-sdk');
 
 AWS.config.update({
 
-    region:'ap-southeast-2',
+    region:'us-west-1',
     endpoint:'http://localhost:8000'
 
 });
